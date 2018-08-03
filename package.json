@@ -1,6 +1,6 @@
 {
   "name": "@olly.john/object-id",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Olly John",
   "description": "Generate & copy a JS Object ID to your clipboard from the command line",
   "license": "GPL-3.0",
