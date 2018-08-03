@@ -1,0 +1,16 @@
+{
+  "name": "@olly.john/object-id",
+  "version": "1.0.1",
+  "author": "Olly John",
+  "description": "Generate & copy a JS Object ID to your clipboard from the command line",
+  "license": "GPL-3.0",
+  "repository": "ollyjohn/object-id",
+  "main": "app.js",
+  "keywords": [
+    "objectID",
+    "object id"
+  ],
+  "dependencies": {
+    "node-clip": "^0.1.1"
+  }
+}
