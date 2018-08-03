@@ -6,11 +6,15 @@
   "license": "GPL-3.0",
   "repository": "ollyjohn/object-id",
   "main": "app.js",
+  "scripts": {
+    "patch-release": "npm version patch && npm publish && git push --follow-tags"
+  },
   "keywords": [
     "objectID",
     "object id"
   ],
   "dependencies": {
     "node-clip": "^0.1.1"
-  }
+  },
+  "bin": "./app.js"
 }
